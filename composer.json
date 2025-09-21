@@ -1,0 +1,20 @@
+{
+    "name": "nece001/thinkphp-view-blade",
+    "description": "thinkphp视图blade模板引擎驱动",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "think\\viwe\\driver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nece001",
+            "email": "nece001@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
