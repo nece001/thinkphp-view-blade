@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "think\\view\\driver\\": "src/"
-        }
+        },
+        "files": [
+            "src/function.php"
+        ]
     },
     "authors": [
         {
